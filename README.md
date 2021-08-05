@@ -2,6 +2,8 @@
 ## ----------------------------------------------------------------------------------------------
 ### {技术栈 |Java, C, go| 框架不限,接受新事物, 希望分享的技术能帮助更多的朋友😄😄😄😄😄😄😄}
 
+![Image text](https://github-readme-stats.vercel.app/api?username=JackYgCg&hide=contribs)
+
 <!--
 **JackYgCg/JackYgCg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
